@@ -1,5 +1,4 @@
 # 🚀 Welcome Aboard the Long Journey Spaceship!
-![image](https://github.com/user-attachments/assets/5827f039-672f-4500-bb58-f4be3a05b216)
 
 ## Hey there! Welcome to my GitHub 👋
 
