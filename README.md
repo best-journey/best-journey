@@ -10,7 +10,7 @@ I'm a developer on a mission to explore the vast cosmos of technology and creati
 - 🔎 Always exploring new technologies
 
 ### Technologies I Use
-- 🛠️ Languages: JavaScript, TypeScript, Python, Rust
+- 🛠️ Languages: JavaScript, TypeScript, Python, Rust, Ruby on Rails
 - ✨ Frameworks: React, Next.js, Astro
 - 🏠 Cloud: AWS, Vercel, Netlify
 - 🔒 Databases: PostgreSQL, MongoDB
