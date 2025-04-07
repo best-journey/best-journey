@@ -15,10 +15,6 @@ I'm a developer on a mission to explore the vast cosmos of technology and creati
 - 🏠 Cloud: AWS, Vercel, Netlify
 - 🔒 Databases: PostgreSQL, MongoDB
 
-### Current Project
-- 🚀 Working on a microservice galaxy
-- 🛠️ Enhancing identity and webhook systems
-
 Keep exploring, stay curious, and let's build amazing things together! ✨
 
 May your journey be filled with endless possibilities!
