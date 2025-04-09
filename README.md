@@ -12,6 +12,7 @@ I'm a developer on a mission to explore the vast cosmos of technology and creati
 ### Technologies I Use
 - 🛠️ Languages: JavaScript, TypeScript, Python, Rust, Ruby on Rails
 - ✨ Frameworks: React, Next.js, Astro
+- 🤖 AI Development: TensorFlow, PyTorch, OpenAI API
 - 🏠 Cloud: AWS, Vercel, Netlify
 - 🔒 Databases: PostgreSQL, MongoDB
 
